@@ -9,8 +9,8 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 
 ### 🛠 Tech Stack & Expertise
 
-- **Operating Systems:** Red Hat Enterprise Linux (RHEL 7/8/9), Solaris 11.4 (SPARC/x86), AIX
-- **Automation & IaC:** Ansible, Python, Bash Scripting, Terraform
+- **Operating Systems:** Red Hat Enterprise Linux (RHEL 7/8/9), Solaris 11.4 (SPARC/x86)
+- **Automation & IaC:** Ansible, Python, Bash Scripting
 - **Cloud & Virtualization:** AWS (SysOps Associate), VMware, Oracle LDoms & Zones
 - **Security:** Infrastructure Hardening (CIS Benchmarks), SIEM, Vulnerability Management
 
