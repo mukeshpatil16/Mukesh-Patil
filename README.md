@@ -92,9 +92,12 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Loading+RHEL+9+Kernel...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating Infra on cloud.....;Installing and configuring applications......." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Loading+RHEL+9+Kernel...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating+Infra+on+cloud.....;Installing+and+configuring+applications...." 
+      alt="Typing SVG" />
   </a>
 </p>
+
+
 
 
 
