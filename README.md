@@ -36,9 +36,8 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpatil16&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpatil16" /> </p>
 
-- 🌱 I’m currently learning **CISSP,OSCP**
 
-- 📫 How to reach me **mukeshpatil16@gmail.com**
+
 
 <p align="left">
 ---
@@ -84,7 +83,9 @@ I specialize in managing mission-critical enterprise environments, focusing on h
   </tr>
 </table>
 
-### 📫 Let's Connect
+
+### 📫 How to reach me 
+- **Mail ID:** mukeshpatil16@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/mukeshganeshpatil]
 - **Location:** Navi Mumbai, India 🇮🇳
 
@@ -92,7 +93,7 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Loading+RHEL+9+Kernel...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating+Infra+on+cloud.....;Installing+and+configuring+applications...." 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Loading+RHEL+9+Kernel...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating+Infra+on+cloud...;Installing+and+configuring+applications..." 
       alt="Typing SVG" />
   </a>
 </p>
