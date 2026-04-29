@@ -31,8 +31,8 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 ---
 
 ### 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_mukeshpatil16&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_mukeshpatil16&layout=compact&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_Mukesh-Patil&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-Patil&layout=compact&theme=tokyonight)
 
 ---
 
