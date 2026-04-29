@@ -1,5 +1,6 @@
 
 # Hi there, I'm Mukesh! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpatil16&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpatil16" /> </p>
 
 ### Systems & Infrastructure Engineer | RHEL & Solaris Expert | Security Enthusiast
 
@@ -27,15 +28,6 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 - **Certified:** AWS SysOps Administrator – Associate (Valid through 2027).
 - **Hardening:** Implementation of CIS Benchmark security standards across Unix/Linux environments.
 - **Legacy Migration:** Deep expertise in SPARC architecture and Solaris-to-Linux transitions.
-
----
-
-### 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh-Patil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-Patil&layout=compact&theme=tokyonight)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpatil16&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpatil16" /> </p>
-
 
 
 
@@ -97,8 +89,8 @@ I specialize in managing mission-critical enterprise environments, focusing on h
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=ssh+MukeshPatil@127.0.0.1;Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Welcome+to+RHEL+9+...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating+Infra+on+cloud...;Installing+and+configuring+applications..." 
-      alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=ssh+MukeshPatil@127.0.0.1;Mukesh+Patil+Logged+In+Successfully!;Initializing+System+Environment...;Welcome+to+RHEL+9+...;Compiling+Ansible+Playbooks...;Securing+Infrastructure+Benchmarks...;Migrating+Infra+on+cloud...;Installing+and+configuring+applications..." 
+      alt="Admin Stuff" />
   </a>
 </p>
 
