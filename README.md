@@ -1,4 +1,4 @@
-# Mukesh-Patil
+
 # Hi there, I'm Mukesh! 👋
 
 ### Systems & Infrastructure Engineer | RHEL & Solaris Expert | Security Enthusiast
